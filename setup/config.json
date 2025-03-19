@@ -6,65 +6,12 @@
   "config": {
     "options": {
       "watch-url": [
-        "https://www.twitch.tv/vxewii",
         "https://www.youtube.com/watch?v=bH3vMDK_Hn0"
       ],
       "timestamp": "{start}"
     },
-    "text-1": [
-      "{NF3( 〈 {emoji:time} {hour:1} : {min:1} 〉 ⭒ 〈 📆 {th=date} / {en=month:3} / {en=year:2} 〉 )}"
-    ],
-    "text-2": [
-      "{NF3(Shorekeeper Loading..)}",
-      "☆ | 💙 ╺  Shorekeeper  ྀི𓈒",
-      "☆ | 💙⠀╺  Shorekeeper  ྀི𓈒",
-
-      "{NF3(Camellya Loading..)}",
-      "☆ | ❤️⠀╺  Camellya  ྀི𓈒",
-      "☆ | ❤️⠀╺  Camellya  ྀི𓈒",
-
-      "{NF3(Castorice Loading..)}",
-      "☆ | ⭐⠀╺  Castorice  ྀི𓈒",
-      "☆ | ⭐⠀╺  Castorice  ྀི𓈒",
-
-      "{NF3(Phrolova Loading..)}",
-      "❀ | 🥀⠀╺  Phrolova  ྀི𓈒",
-      "❀ | 🥀⠀╺  Phrolova  ྀི𓈒",
-
-      "{NF3(Hu Tao Loading..)}",
-      "⚡︎ | 🔥⠀╺  Hu Tao  ྀི𓈒",
-      "⚡︎ | 🔥⠀╺  Hu Tao  ྀི𓈒",
-
-      "{NF3(Herta Loading..)}",
-      "☾. | 💜⠀╺  Herta  ྀི𓈒",
-      "☾. | 💜⠀╺  Herta  ྀི𓈒",
-
-      "{NF3(Feixiao Loading..)}",
-      "‧₊˚ | 🌺 ╺ ⠀Feixiao  ྀི𓈒",
-      "‧₊˚ | 🌺 ╺ ⠀Feixiao  ྀི𓈒",
-
-      "{NF3(Sparkle Loading..)}",
-      "| 🩸 ╺  Sparkle ♡",
-      "| 🩸⠀╺  Sparkle ♡",
-      "| 🩸⠀╺  Sparkle ♡",
-
-      "{NF3(Acheron Loading..)}",
-      "| ☪⠀╺  Acheron ♡",
-      "| ☪⠀╺  Acheron ♡",
-      "| ☪⠀╺  Acheron ♡",
-
-      "{NF3(Miku Loading..)}",
-      "| 💙 ╺  Miku ♡",
-      "| 💙 ╺  Miku ♡",
-      "| 💙 ╺  Miku ♡",
-
-      "{NF3(Saber Loading..)}",
-      "| 🖤 ╺  Saber ♡",
-      "| 🖤 ╺  Saber ♡",
-      "| 🖤 ╺  Saber ♡",
-      "| 🖤 ╺  Saber ♡"
-    ],
-    "text-3": ["☆★✮⋆☆★✮⋆ | ᶻ 𝘇 𐰁  "],
+    "text-1": ["☆★✮⋆☆★✮⋆ | ᶻ 𝘇 𐰁  "],
+    "text-2": ["☆★✮⋆☆★✮⋆ | ᶻ 𝘇 𐰁  "],
     "bigimg": [
       "https://i.postimg.cc/hPvfwgm6/e82a9cc4dfb33f35ae9e80516029a4bd.jpg",
       "https://i.postimg.cc/QMGCHTzZ/1466b50d052f2a08728fe616829c843d.gif",
@@ -116,7 +63,7 @@
       "https://i.postimg.cc/c1FJYzJg/Saber-5.gif"
     ],
     "smallimg": [],
-        "button-1": [
+    "button-1": [
       {
         "name": "Miyako's server",
         "url": "https://discord.gg/TSdpyMMfrU"
@@ -125,7 +72,8 @@
     "button-2": [
       {
         "name": "Stream status > Deobf",
-        "url": "https://github.com/vxewii/Streaming-status"
+        "url": "https://github.com/4levy/Streaming-status"
       }
+    ]
   }
 }
