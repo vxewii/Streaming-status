@@ -116,17 +116,5 @@
       "https://i.postimg.cc/c1FJYzJg/Saber-5.gif"
     ],
     "smallimg": [],
-    "button-1": [
-      {
-        "name": "Miyako's server",
-        "url": "https://discord.gg/TSdpyMMfrU"
-      }
-    ],
-    "button-2": [
-      {
-        "name": "Stream status > Deobf",
-        "url": "https://github.com/vxewii/Streaming-status"
-      }
-    ]
   }
 }
